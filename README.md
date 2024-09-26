@@ -8,7 +8,8 @@ Core Function:
 - Text field to display the calculated BMI
 - Only allow positive numbers for height/weight
 - App should target SDK 34 or 35, no lower limit on minimum SDK
-- Auto display calculated BMI to the screen without button  
+- Auto display calculated BMI to the screen without button
+    
 Custom Function:  
 - Round BMI to 2 d.p.
 - Add additional text on the category of BMI (e.g. underweight, normal etc.)
